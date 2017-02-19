@@ -13,3 +13,6 @@ print(newList)
 
 newList[1][1] = "I replaced u"
 print(newList)
+
+intList = [1, 2, 3, 4, 5]
+print(sum(intList))
